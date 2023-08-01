@@ -14,7 +14,7 @@ Used native JavaScript. Contains elements such as: modal windows, contact forms,
 7. Filling in the name and comment - only in Latin.
 8. When you click on a gift, a modal window should appear and the gift itself completely disappears from the page.
 9. By clicking on "View more styles" button, additional style blocks should be loaded. The button disappears.
-10. If LERAPOPART is entered in the “Promo code” field, then the total amount is reduced by 30%. Also, the logic should be preserved when changing the selection.
+10. If IWANTPORTRAIT is entered in the “Promo code” field, then the total amount is reduced by 30%. Also, the logic should be preserved when changing the selection.
 11. When you hover the mouse over the blocks "We can make a picture of any size!", they should be replaced by a picture.
 12. Slider implementation. The arrows are required, they must scroll through the slides. Should turn over automatically at an adequate interval. Flip animation: horizontally.
 13. If the user scrolled the page to the end, but did not press any button, a modal window with a gift should appear and the gift itself completely disappears from the page.
