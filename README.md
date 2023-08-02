@@ -2,7 +2,7 @@
 
 A site for ordering portrait painting.
 
-Used native JavaScript. Contains elements such as: modal windows, contact forms, sliders, phone mask, calculator, filter, images changing, burger menu, work with server.
+Used native JavaScript. Contains elements such as: modal windows, contact forms, sliders, phone mask, calculator, filter, images changing, accordion paragraph, burger menu, work with server.
 
 ## Technical specification
 1. The presence of animated elements.
