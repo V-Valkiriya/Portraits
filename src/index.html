@@ -82,11 +82,7 @@
 					<p class=logo-p>Turn a photo into a real picture!</p>
 				</div>
 				<div class="col-md-3 col-md-offset-3 col-sm-offset-0 col-sm-4 hidden-xs">
-					<div class=file_upload>
-						<button type=button>Upload a photo</button>
-						<div>No file selected</div>
-						<input type=file name=upload>
-					</div>
+					
 					<p class=email>E-mail: <a href=mailto:info@pictures.art>info@pictures.art</a></p>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-7">
@@ -236,7 +232,8 @@
 						<div class=file_upload>
 							<button type=button>Upload a photo</button>
 							<div>No file selected</div>
-							<input type=file name=upload>
+							<!-- only pictures, few pictures -->
+							<input type=file name=upload multiple accept="image/*">
 						</div>
 						<select id=size>
 							<option value >Choose the size of the picture</option>
